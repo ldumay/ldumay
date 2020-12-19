@@ -11,5 +11,5 @@
 <p>Oh, but that doesn't give you any more information about me. 😁
 <br>I invite you for the moment to visit my very detailed site <a target="_blank" href="https://ldumay.fr">here</a> 🌍 or even consult all my github repositories. 😊 </p>
 
-<p>Now, I leave you after this few lines. I must continue to code to make all my projects evolve.
+<p>Now, I must leave you after this few lines, I will continue to code to make all my projects evolve.
 <br>I tell you then, see you soon 😉</p>
