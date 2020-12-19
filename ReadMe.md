@@ -8,10 +8,8 @@
 <br>Thanks to this, you can see the readme.md of this repository directly on my profile. 🤩
 <br>Cool, isn't it? 😎</p>
 
-<p>Oh, but that doesn't give you any more information about myself. 😁
-<br>I invite you for the moment to go to my very detailed site. 😊</p>
-
-<p>🌍 => <a target="_blank" href="https://ldumay.fr">https://ldumay.fr</a></p>
+<p>Oh, but that doesn't give you any more information about me. 😁
+<br>I invite you for the moment to visit my very detailed site <a target="_blank" href="https://ldumay.fr">here</a> 🌍 or even consult all my github repositories. 😊 </p>
 
 <p>Now, I leave you after a few lines, I will continue to code to make all my projects evolve.
-<br>So I tell you, see you soon.</p>
+<br>I tell you then, see you soon 😉</p>
