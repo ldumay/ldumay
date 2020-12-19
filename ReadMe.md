@@ -1,4 +1,4 @@
-## Hi! I'm Loïc Dumay! 👋
+## Hi! I'm Loïc Dumay! 👋 🇫🇷
 
 ### I am a web developer 👨💻. 
 
