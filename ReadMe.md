@@ -1,4 +1,3 @@
-# EN 
 ## Hi! I'm Loïc Dumay! 👋
 
 ### I am a web developer 👨💻. 
